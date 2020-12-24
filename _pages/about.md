@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Mengyuan's Page "
+title: "Welcome to Mengyuan's Home "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,26 +8,44 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi, welcome to Mengyuan MA's home!
+----------
 
-About me
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Currently, I am a Ph.D. candidate at the [University of Manchester](https://www.manchester.ac.uk/)(UoM), supervised by [Prof. Hujun Yin](Thttps://personalpages.manchester.ac.uk/staff/hujun.yin/), supported by the UoM-CSC Joint Scholarship. Previously, I received my bachelor's degree in Electronics and Information Engineering from [Northwestern Polytechnical University](https://en.nwpu.edu.cn/) in 2016, and master's degree in Electronic and Communication Engineering from [Beihang University](https://ev.buaa.edu.cn/) in 2019. From Novermber 2019 to July 2020, I worked as a research intern focusing on human activity grounding at [iLearn](https://ilearn.qd.sdu.edu.cn/), [Shandong University](https://en.sdu.edu.cn/), under the supervision of [Prof. Liqiang NIE](https://liqiangnie.github.io/). My research interests cover a wide range of deep learning related topics including imgae segmentation, semi-supervised learning, domain adaptation, information retrieval and remote sensing. Also, I serve as a reviewer for several top-tier journals such as [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361) and [Remote Sensing](https://www.mdpi.com/journal/remotesensing). For more about my academic backgroud, please refer to my [CV](https://academicpages.github.io/cv/) and [Publication](https://academicpages.github.io/publications/).  
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Beyond research and work, I am also a wanderlust and amateur photographer and drone flyer. I have been to more than 20 countries, taken thousand of pictures and videos. Due to the pandemic of Covid-19, I spent most of time staying at home and fly my UAV to record the city of Manchester these days. If you are sharing the same hobbies with me, please drop me an email or follow my instagram, we can discuss more about journey and photographing.  
+
+
+
+
+News
+========
+
+
+**30/11/2020**: I flew to Manchester against the spread of Covid-19 and national lockdown.
+
+**01/11/2020**: I was registered at the Univeristy of Manchester and began the weekly meeting with my supervisor.
+
+**01/07/2020**: I was awarded with the UoM -CSC Joint Scholarship to further my Ph.D. study. Thanks to my supervisor Prof. Hujun Yin's help and support! Cheers!
+
+**01/11/2019**: I went to Shandong Univeristy(Qingdao campus) and began my internship.
+
+**26/09/2019**: Our paper "[Maritime targets classification based on CNN using Gaofen-3 SAR images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8916017)" was publised by [the Journal of Engineering](https://digital-library.theiet.org/content/journals/joe). Cheers!
+
+**30/08/2019**: Our work won the first place in the [TRECVID 2019: Activities in Extended Video Competition](https://www-nlpir.nist.gov/projects/tvpubs/tv19.papers/mmvg-Informedia.pdf). Cheers!
+
+**15/01/2019**: Graduated with distingction from Beihang University.
+
+**14/12/2018**: Our Paper "[Ship Classification and Detection Based on CNN Using GF-3 SAR Images](https://www.mdpi.com/2072-4292/10/12/2043)" was accepted by [Remote Sensing](https://www.mdpi.com/journal/remotesensing). Cheers!
+
+**08/07/2018**: Our paper " "[Maritime targets classification based on CNN using Gaofen-3 SAR images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8916017)" was accepted by [2018 IET International Radar Conference](http://www.ietradar.org/2018/welcome.asp). Cheers!
+
+
 
 Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+============
+n configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
 ------

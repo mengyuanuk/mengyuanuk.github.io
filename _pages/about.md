@@ -27,19 +27,21 @@ News
 ========
 
 
-**30/11/2020**: I flew to Manchester against the spread of Covid-19 and national lockdown.
+**30/11/2020**: I arrived at Manchester against the spread of Covid-19 and national lockdown.
 
 **01/11/2020**: I was registered at the Univeristy of Manchester and began the weekly meeting with my supervisor.
 
-**01/07/2020**: I was awarded with the UoM -CSC Joint Scholarship to further my Ph.D. study. Thanks to my supervisor Prof. Hujun Yin's help and support! Cheers!
+**12/07/2020**: I was awarded with the UoM -CSC Joint Scholarship to further my Ph.D. study. Thanks to my supervisor Prof. Hujun Yin's help and support! Cheers!
 
-**01/11/2019**: I went to Shandong Univeristy(Qingdao campus) for my internship, supervised by [Prof. Liqiang NIE]((https://liqiangnie.github.io/) and [Dr. Xioajun Chang](https://www.xiaojun.ai/), waiting for the visa to Australia.
+**01/11/2019**: I went to Shandong Univeristy(Qingdao campus) for my internship, supervised by [Prof. Liqiang NIE]((https://liqiangnie.github.io/) and [Dr. Xiaojun Chang](https://www.xiaojun.ai/),<strike> waiting for the visa to Australia</strike>.
 
 **26/09/2019**: Our paper "[Maritime targets classification based on CNN using Gaofen-3 SAR images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8916017)" was publised by [the Journal of Engineering](https://digital-library.theiet.org/content/journals/joe). Cheers!
 
 **30/08/2019**: Our work won the first place in the [TRECVID 2019: Activities in Extended Video Competition](https://www-nlpir.nist.gov/projects/tvpubs/tv19.papers/mmvg-Informedia.pdf). Cheers!
 
-<strike>**16/06/2019**: I joined the [Monash Machine Vision Group]( http://www.mmvg.org/) at Monash Univeristy (full scholarship), supervised by [Dr. Xioajun Chang](https://www.xiaojun.ai/) to continue my research in computer vision</strike>.
+<strike>**16/06/2019**: I joined the [Monash Machine Vision Group](http://www.mmvg.org/) at Monash Univeristy (full scholarship), supervised by [Dr. Xiaojun Chang](https://www.xiaojun.ai/) to continue my research in computer vision</strike>.
+
+**15/01/2019**: Award for Graduate publishing Excellent Academic Paper, Beihang University.
 
 **15/01/2019**: Graduated with distingction from Beihang University.
 
@@ -49,9 +51,15 @@ News
 
 **08/07/2018**: Our paper "[Maritime targets classification based on CNN using Gaofen-3 SAR images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8916017)" was accepted by [2018 IET International Radar Conference](http://www.ietradar.org/2018/welcome.asp). Cheers!
 
+**01/09/2016**: I was enrolled at [School of Electronic and Information Engineering](http://www.ee.buaa.edu.cn/), [Beihang University](https://ev.buaa.edu.cn/), Supervised by [Prof. Jie CHEN](http://www.ee.buaa.edu.cn/info/1040/1175.htm) and [A/Prof. Wei YANG](http://www.ee.buaa.edu.cn/info/1040/1118.htm)
+
 **01/07/2016**: Graduated from Northwestern Polytechnical University with honors. Cheers!
 
-**19/03/2016**: Flew to Branuschweig(Germany) to complete my bachelor's thesis "*Development of A Thin Film Antenna for CubeSats*", supported by China Scholarship Council (CSC) Scholarship for Excellent Undergraduate Students.
+**19/03/2016**: Went to [TU Branuschweig](https://www.tu-braunschweig.de/)(Germany) to complete my bachelor's thesis "*Development of A Thin Film Antenna for CubeSats*", supported by China Scholarship Council (CSC) Scholarship for Excellent Undergraduate Students.
+
+**30/9/2012**: I was enrolled in the [Honors College](https://honors.nwpu.edu.cn/IndexEnglish.htm), [Northwestern Polytechnical University](https://en.nwpu.edu.cn/)
+
+**06/06/2012**: Graduated from School Attatched to Qifu Normal University, Shandong Province.
 
 
 

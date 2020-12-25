@@ -1,7 +1,7 @@
 ---
 title: "MMVG-INF-Etrol@ TRECVID 2019: Activities in Extended Video"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/paper-2-MMVG-INF-Etrol@ TRECVID 2019: Activities in Extended Video
 excerpt: ''
 date: 2019-08-01
 venue: 'TRECVIDS'

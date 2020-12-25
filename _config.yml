@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Mengyuan Ma"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. Candidate, University of Manchester"
+  location         : "Manchester, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=kBDrjhQAAAAJ&hl=en&oi=ao"
   email            : "mengyuan.ma@postgrad.manchester.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,17 +99,17 @@ author:
   github           : "https://github.com/mengyuanuk"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/mengyuan_fly/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

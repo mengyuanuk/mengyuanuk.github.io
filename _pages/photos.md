@@ -6,15 +6,10 @@ author_profile: true
 ---
 
 
-Hello, here are some pictures about me and my daily life.
+Ph.D. is not only reasearch but also life.
 
+I am keen on travelling and photograping! Let's explore the world together!
 
-here is 
-heihei
-
-In the past five years, I have been to more than 20 countries and took a lot of pictures during my journeys. The [map](https://mengyuanuk.github.io/talkmap.html)
-shows the city I have visited. If you are also interested in these places, maybe we can share tips on planning travel and saving money. 
-<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
 
 {% include base_path %}
 
@@ -23,3 +18,8 @@ shows the city I have visited. If you are also interested in these places, maybe
   {% include archive-single.html %}
 {% endfor %}
 
+*Travel Map*
+======
+In the past five years, I have been to more than 20 countries and took a lot of pictures during my journeys. The [map](https://mengyuanuk.github.io/talkmap.html)
+shows cities I have visited. If you are also interested in these places, maybe we can share tips on planning travel and saving money. 
+<iframe src="/talkmap/map.html" height="700" width="1000" style="border:none;"></iframe>

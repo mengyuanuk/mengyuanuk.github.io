@@ -15,8 +15,6 @@ import glob
 import getorg
 from geopy import Nominatim
 
-g = glob.glob("_talks/*.md")
-
 
 geocoder = Nominatim(user_agent='myuseragent')
 location_dict = {}
@@ -24,19 +22,11 @@ location = ""
 permalink = ""
 title = ""
 
-
-for file in g:
-    with open(file, 'r') as f:
-        lines = f.read()
-        if lines.find('location: "') > 1:
-            loc_start = lines.find('location: "') + 11
-            lines_trim = lines[loc_start:]
-            loc_end = lines_trim.find('"')
-            location = lines_trim[:loc_end]
-                            
-           
-        location_dict[location] = geocoder.geocode(location)
-        print(location, "\n", location_dict[location])
+f = open("sites.md", 'r')
+allLines = f.readlines()
+for location in allLines:
+    location_dict[location] = geocoder.geocode(location)
+    print(location, "\n", location_dict[location])
 
 
 m = getorg.orgmap.create_map_obj()

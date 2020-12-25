@@ -1,31 +1,52 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+Hi, welcome to Mengyuan's home!
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+![](http://m.qpic.cn/psc?/V11FNHY419ldOz/bqQfVz5yrrGYSXMvKr.cqXatzIgyYKCgnCJntH5Z7lh6xAok1CP*bwLm0KD2OlqYOg*DdP*ozI0olW2NvdbJXLjM2*dDsxfl*VauqWGNZno!/b&bo=PANsAgAAAAABB3E!&rf=viewer_4&t=5)
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
-# Instructions
+Currently, I am a Ph.D. candidate at the [University of Manchester](https://www.manchester.ac.uk/)(UoM), supervised by [Prof. Hujun Yin](Thttps://personalpages.manchester.ac.uk/staff/hujun.yin/), supported by the UoM-CSC Joint Scholarship. Previously, I received my bachelor's degree in Electronics and Information Engineering from [Northwestern Polytechnical University](https://en.nwpu.edu.cn/) in 2016, and master's degree in Electronic and Communication Engineering from [Beihang University](https://ev.buaa.edu.cn/) in 2019. From Novermber 2019 to July 2020, I worked as a research intern focusing on human activity grounding at [iLearn](https://ilearn.qd.sdu.edu.cn/), [Shandong University](https://en.sdu.edu.cn/), under the supervision of [Prof. Liqiang NIE](https://liqiangnie.github.io/). My research interests cover a wide range of deep learning related topics including imgae segmentation, semi-supervised learning, domain adaptation, information retrieval and remote sensing. Also, I serve as a reviewer for several top-tier journals such as [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361) and [Remote Sensing](https://www.mdpi.com/journal/remotesensing). For more about my academic backgroud, please refer to my [CV](https://academicpages.github.io/cv/) and [Publication](https://academicpages.github.io/publications/).  
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+Beyond research and work, I am also a wanderlust and amateur photographer and drone flyer. I have been to more than 20 countries, taken thousand of pictures and videos. Due to the pandemic of Covid-19, I spent most of time staying at home and fly my UAV to record the city of Manchester these days. If you are sharing the same hobbies with me, please drop me an email or follow my instagram, we can discuss more about journey and photographing.  
 
-See more info at https://academicpages.github.io/
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
-# Changelog -- bugfixes and enhancements
+News
+========
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+**30/11/2020**: I arrived at Manchester against the spread of Covid-19 and national lockdown.
+
+**01/11/2020**: I was registered at the Univeristy of Manchester and began the weekly meeting with my supervisor.
+
+**12/07/2020**: I was awarded with the UoM -CSC Joint Scholarship to further my Ph.D. study. Thanks to my supervisor Prof. Hujun Yin's help and support! Cheers!
+
+**01/11/2019**: I went to Shandong Univeristy(Qingdao campus) for my internship, supervised by [Prof. Liqiang NIE]((https://liqiangnie.github.io/) and [Dr. Xiaojun Chang](https://www.xiaojun.ai/),<strike> waiting for the visa to Australia</strike>.
+
+**26/09/2019**: Our paper "[Maritime targets classification based on CNN using Gaofen-3 SAR images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8916017)" was publised by [the Journal of Engineering](https://digital-library.theiet.org/content/journals/joe). Cheers!
+
+**30/08/2019**: Our work won the first place in the [TRECVID 2019: Activities in Extended Video Competition](https://www-nlpir.nist.gov/projects/tvpubs/tv19.papers/mmvg-Informedia.pdf). Cheers!
+
+<strike>**16/06/2019**: I joined the [Monash Machine Vision Group](http://www.mmvg.org/) at Monash Univeristy (full scholarship), supervised by [Dr. Xiaojun Chang](https://www.xiaojun.ai/) to continue my research in computer vision</strike>.
+
+**15/01/2019**: Award for Graduate publishing Excellent Academic Paper, Beihang University.
+
+**15/01/2019**: Graduated with distingction from Beihang University.
+
+**14/12/2018**: Our Paper "[Ship Classification and Detection Based on CNN Using GF-3 SAR Images](https://www.mdpi.com/2072-4292/10/12/2043)" was accepted by [Remote Sensing](https://www.mdpi.com/journal/remotesensing). Cheers!
+
+**30/08/2018**: Our work won the First place in *National Ship Detection Challenge: SAR Images Track*. Cheers!
+
+**08/07/2018**: Our paper "[Maritime targets classification based on CNN using Gaofen-3 SAR images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8916017)" was accepted by [2018 IET International Radar Conference](http://www.ietradar.org/2018/welcome.asp). Cheers!
+
+**01/09/2016**: I was enrolled at [School of Electronic and Information Engineering](http://www.ee.buaa.edu.cn/), [Beihang University](https://ev.buaa.edu.cn/), Supervised by [Prof. Jie CHEN](http://www.ee.buaa.edu.cn/info/1040/1175.htm) and [A/Prof. Wei YANG](http://www.ee.buaa.edu.cn/info/1040/1118.htm)
+
+**01/07/2016**: Graduated from Northwestern Polytechnical University with honors. Cheers!
+
+**19/03/2016**: Went to [TU Branuschweig](https://www.tu-braunschweig.de/)(Germany) to complete my bachelor's thesis "*Development of A Thin Film Antenna for CubeSats*", supported by China Scholarship Council (CSC) Scholarship for Excellent Undergraduate Students.
+
+**30/9/2012**: I was enrolled in the [Honors College](https://honors.nwpu.edu.cn/IndexEnglish.htm), [Northwestern Polytechnical University](https://en.nwpu.edu.cn/)
+
+**06/06/2012**: Graduated from School Attatched to Qifu Normal University, Shandong Province.
+
+
+

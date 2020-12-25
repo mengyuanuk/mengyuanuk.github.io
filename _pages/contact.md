@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 redirect_from:
-  -/contact/index.html 
+  -/index 
 ---
 
 Contact

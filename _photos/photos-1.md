@@ -1,7 +1,7 @@
 ---
 title: "Pictures taken by my drone"
 permalink: /photos/photos-1
-excerpt: "**The morning of Manchester**. "
+excerpt: "**The morning of Manchester**.![](http://m.qpic.cn/psc?/V11FNHY419ldOz/bqQfVz5yrrGYSXMvKr.cqQPKiJ1eXYtIqJfr0aNUijoFe3JztN9efEdZml6K4WlA6z2y6FYT*Geq6Z2qsP1RIDszkdfsfI8ytdNGUAlpiuE!/b&bo=HAtABhwLQAYBByA!&rf=viewer_4&t=5)"
 collection: photos
 ---
 

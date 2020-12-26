@@ -19,16 +19,16 @@ Work experience
 ======
 * Novermber 2019 - July 2020: Research Intern
   * Shandong University, China
-  * Duties included: Algorithms Design
-  * Supervisor: Professor Liqiang Nie
+  * Duties included: Algorithms Design(Human activity grounding)
+  * Supervisor: [Prof. Liqiang NIE](https://liqiangnie.github.io/)
 
   
 Skills
 ======
 * Programming skills
-  * Python, PyTorch, Tensorflow, Linux, OpenCV
+  * Python, PyTorch, Tensorflow, Linux, OpenCV, C++, Matlab.
 * Language Skills
-  * mandarin (native)
+  * Mandarin (native)
   * English (Overall band 7.0 C1)
 
 Publications
@@ -40,4 +40,4 @@ Publications
   
 Service and leadership
 ======
-* Reviewer for IEEE Sensors Journal and Remote Sensing
+* Reviewer for [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)  and [Remote Sensing](https://www.mdpi.com/journal/remotesensing).

@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 <br>
-
-</br>
+<br>
 
 
 Greetings! Welcome to Mengyuan's home!

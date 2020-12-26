@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Mengyuan's Home "
+title: "Mengyuan Ma's Homepage "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 <br>
 
 
-Greetings! Welcome to Mengyuan's home!
+Greetings! Welcome to Mengyuan Ma(马梦原)'s home!
 
 ![](http://m.qpic.cn/psc?/V11FNHY419ldOz/bqQfVz5yrrGYSXMvKr.cqXatzIgyYKCgnCJntH5Z7lh6xAok1CP*bwLm0KD2OlqYOg*DdP*ozI0olW2NvdbJXLjM2*dDsxfl*VauqWGNZno!/b&bo=PANsAgAAAAABB3E!&rf=viewer_4&t=5)
 

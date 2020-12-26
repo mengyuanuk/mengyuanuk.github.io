@@ -6,10 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<br/>
 {% include base_path %}
 
-<br />
+
 Education
 ======
 * B.E. in Electronic and Information Engineering, Northwestern Polytechnical University, 2016

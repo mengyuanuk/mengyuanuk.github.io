@@ -12,4 +12,5 @@ This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](https://www-nlpir.nist.gov/projects/tvpubs/tv19.papers/mmvg-Informedia.pdf)
 
-Recommended citation: Chang, X., Liu, W., Huang, P. Y., Li, C., Zhu, F., Han, M., ... & Liang, J. (2019). MMVG-INF-Etrol@ TRECVID 2019: Activities in Extended Video. In <i>TRECVID</i>.
+**Abstract**<br>
+We propose a video analysis system detecting activities in surveillance scenarioswhich wins Trecvid Activities in Extended Video (ActEV1) challenge 2019. Fordetecting and localizing surveillance events in videos, Argus employs a spatial-temporal activity proposal generation module facilitating object detection andtracking, followed by a sequential classification module to spatially and temporallylocalize persons and objects involved in the activity. We detail the design challengesand provide our insights and solutions in developing the state-of-the-art surveillancevideo analysis system. <br>

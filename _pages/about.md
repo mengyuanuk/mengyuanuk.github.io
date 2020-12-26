@@ -30,7 +30,7 @@ News
 
 **01/11/2020**: I was registered at the Univeristy of Manchester and began the weekly meeting with my supervisor.
 
-**12/07/2020**: I was awarded with the UoM -CSC Joint Scholarship to further my Ph.D. study. Thanks to my supervisor Prof. Hujun Yin's help and support! Cheers!
+**12/07/2020**: I was awarded with the UoM - CSC Joint Scholarship to further my Ph.D. study. Thanks to my supervisor Prof. Hujun Yin's help and support! Cheers!
 
 **01/11/2019**: I went to Shandong Univeristy(Qingdao campus) for my internship, supervised by [Prof. Liqiang NIE](https://liqiangnie.github.io/) and [Dr. Xiaojun Chang](https://www.xiaojun.ai/),<strike> waiting for the visa to Australia</strike>.
 
@@ -38,7 +38,7 @@ News
 
 **30/08/2019**: Our work won the first place in the [TRECVID 2019: Activities in Extended Video Competition](https://www-nlpir.nist.gov/projects/tvpubs/tv19.papers/mmvg-Informedia.pdf). Cheers!
 
-<strike>**16/06/2019**: I joined the [Monash Machine Vision Group](http://www.mmvg.org/) at Monash Univeristy (full scholarship), supervised by [Dr. Xiaojun Chang](https://www.xiaojun.ai/) to continue my research in computer vision</strike>.
+<strike>**16/06/2019**: I joined the [Monash Machine Vision Group](http://www.mmvg.org/) at Monash Univeristy (full scholarship), supervised by [Dr. Xiaojun Chang](https://www.xiaojun.ai/) to continue my research in computer vision.</strike>
 
 **15/01/2019**: Award for Graduate publishing Excellent Academic Paper, Beihang University.
 

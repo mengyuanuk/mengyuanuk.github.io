@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+<br>
 
-&nbsp;
 Education
 ======
 * B.E. in Electronic and Information Engineering, Northwestern Polytechnical University, 2016

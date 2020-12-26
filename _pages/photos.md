@@ -24,4 +24,4 @@ I am keen on travelling and photograping! Let's explore the world together!
 ======
 In the past five years, I have been to more than 20 countries and took a lot of pictures during my journeys. The [map](https://mengyuanuk.github.io/talkmap.html)
 shows cities I have visited. If you are also interested in these places, maybe we can share tips on planning travel and saving money. 
-<iframe src="/talkmap/map.html" height="700" width="1000" style="border:none;"></iframe>
+<iframe src="/talkmap/map.html" height="700" width="1200" style="border:none;"></iframe>

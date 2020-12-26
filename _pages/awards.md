@@ -10,7 +10,7 @@ redirect_from:
 
 * First place in   [TRECVID 2019: Activities in Extended Video Competition](https://www-nlpir.nist.gov/projects/tvpubs/tv19.papers/mmvg-Informedia.pdf), 2019 
 
-* Graduate Awards for Publishing Excellent Academic Paper, Beihang University, 2019
+* Award for Graduate Publishing Excellent Academic Paper, Beihang University, 2019
 
 * Excellent Graduate of Beihang University, 2019
 

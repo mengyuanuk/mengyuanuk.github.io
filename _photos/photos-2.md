@@ -1,7 +1,7 @@
 ---
 title: "Photos taken by cameras and iPhone"
 permalink: /photos/photos-2
-excerpt: "![](http://m.qpic.cn/psc?/V11FNHY419ldOz/TmEUgtj9EK6.7V8ajmQrEI*eOyhxAkm8SuqX4akjxCtSBqJUpbWvP9yAK5kwWhcwav2WlLe.1.nmgmV.UPLTEKnRTGIkdMXUo.w*rZwac9A!/b&bo=VQhABlUIQAYBNxA!&rf=viewer_4)**<center>Daily photos to share</center>**"
+excerpt: "![](http://m.qpic.cn/psc?/V11FNHY419ldOz/TmEUgtj9EK6.7V8ajmQrEI*eOyhxAkm8SuqX4akjxCtSBqJUpbWvP9yAK5kwWhcwav2WlLe.1.nmgmV.UPLTEKnRTGIkdMXUo.w*rZwac9A!/b&bo=VQhABlUIQAYBNxA!&rf=viewer_4)**<center>The University of Manchester</center>**"
 collection: photos
 ---
 Hi, Here are some photos about my trips and daily life, more coming soon! 

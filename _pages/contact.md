@@ -7,8 +7,6 @@ redirect_from:
   -/index 
 ---
 
-Contact
-
 ========
 
 School of Electrical and Electronic Engineering, the University of Manchester<br>

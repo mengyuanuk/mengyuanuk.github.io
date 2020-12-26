@@ -3,7 +3,8 @@ title: "Ship Classification and Detection Based on CNN Using
 GF-3 SAR Images"
 collection: publications
 permalink: /publication/paper-1-Ship-Classification-and-Detection
-excerpt: 'This paper aims at detecting and classifying different ships and manmade targets in GF-3 SAR images.'
+excerpt: 'This paper aims at detecting and classifying different ships and manmade targets in GF-3 SAR images. <span style="color:red">**SCI Q1, IF(2018)
+=4.118), highly cited**</span>.'
 date: 2018-12-14
 venue: 'Remote Sensing'
 paperurl: 'https://doi.org/10.3390/rs10122043'

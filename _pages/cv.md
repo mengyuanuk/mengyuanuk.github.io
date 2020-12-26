@@ -8,12 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<br>
+<br>
 Education
 ======
-* B.S. in Electronic and Information Engineering, Northwestern Polytechnical University, 2016
+* B.E. in Electronic and Information Engineering, Northwestern Polytechnical University, 2016
 * Exchange Student, Technische Universität Braunschweig, 2016
-* M.S. in Electronic and Communication Engineering, Beihang University, 2019
+* M.E. in Electronic and Communication Engineering, Beihang University, 2019
 * Ph.D in Electrical and Electronic Engineering , University of Manchester, 2023 (expected)
 
 Work experience
@@ -26,10 +27,10 @@ Work experience
 Skills
 ======
 * Programming skills
-  * Python, PyTorch, Tensorflow, Linux, OpenCV, C++, Matlab.
+  * Python, PyTorch, Tensorflow, Linux, OpenCV, C/C++, Matlab.
 * Language Skills
   * Mandarin (Native)
-  * English (Overall band 7.0 C1)
+  * English (Overall Band 7.0 C1)
 
 Publications
 ======
@@ -40,5 +41,5 @@ Publications
   
 Service and leadership
 ======
-* Reviewer for [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)  and [Remote Sensing](https://www.mdpi.com/journal/remotesensing).
-* Vice-chairman of Postgraduate Union in Beihang University,2017
+* Reviewer for [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361) and [Remote Sensing](https://www.mdpi.com/journal/remotesensing).
+* Vice-chairman of Postgraduate Union in Beihang University, 2017

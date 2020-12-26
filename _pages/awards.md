@@ -8,11 +8,11 @@ redirect_from:
 ---
 <br>
 
-* The UoM - CSC Joint Scholarship for Ph.D student (four-year full scholarship), 2020
+* The UoM - CSC Joint Scholarship for Ph.D. student (four-year full scholarship), 2020
 
 * First place in   [TRECVID 2019: Activities in Extended Video Competition](https://www-nlpir.nist.gov/projects/tvpubs/tv19.papers/mmvg-Informedia.pdf), 2019 
 
-* Award for Graduate Publishing Excellent Academic Paper, Beihang University, 2019
+* Award for Postgraduate Publishing Excellent Academic Paper, Beihang University, 2019
 
 * Excellent Graduate of Beihang University, 2019
 

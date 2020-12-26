@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:
   -/index 
 ---
-
-
+<br>
+<br>
 Ph.D. is not only reasearch but also life.
 
 I am keen on travelling and photograping! Let's explore the world together!

@@ -11,7 +11,7 @@ redirect_from:
 
 School of Electrical and Electronic Engineering, the University of Manchester<br>
 Sackville Street Building, Manchester, UK M13 9PL<br>
-Email: mengyuan.ma@postgrad.manchrster.ac.uk
+Email: mengyuan.ma@postgrad.manchester.ac.uk
 
 School of Electronic and Information Engineering, Beihang Univeristy<br>
 No.37 Xueyuan Road, Beijing, 100191<br>

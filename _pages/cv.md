@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 <br>
-<br>
+</br>
+
 Education
 ======
 * B.E. in Electronic and Information Engineering, Northwestern Polytechnical University, 2016

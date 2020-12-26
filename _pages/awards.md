@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   -/index 
 ---
+<br>
+
 * The UoM - CSC Joint Scholarship for Ph.D student (four-year full scholarship), 2020
 
 * First place in   [TRECVID 2019: Activities in Extended Video Competition](https://www-nlpir.nist.gov/projects/tvpubs/tv19.papers/mmvg-Informedia.pdf), 2019 

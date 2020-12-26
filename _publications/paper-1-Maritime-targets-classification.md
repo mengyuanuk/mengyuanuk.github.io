@@ -1,7 +1,7 @@
 ---
 title: "Maritime targets classification based on CNN using Gaofen-3 SAR images"
 collection: publications
-permalink: /publication/paper-3-Maritime-targets-classification
+permalink: /publication/paper-1-Maritime-targets-classification
 excerpt: ''
 date: 2019-09-26
 venue: 'The Journal of Engineering'

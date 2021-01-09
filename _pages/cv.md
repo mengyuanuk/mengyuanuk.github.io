@@ -40,5 +40,5 @@ Publications
   
 Service and leadership
 ======
-* Reviewer for [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361) and [Remote Sensing](https://www.mdpi.com/journal/remotesensing).
+* Reviewer for [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361).
 * Vice-chairman of Postgraduate Union in Beihang University, 2017

@@ -14,9 +14,13 @@ News
 ========
 
 **15/07/2024**: Our paper "Few-Shot Object Detection with Enhanced Prototypes" was accepted by UKCI 2024.
+
 **15/05/2024**: Our paper "KDNet: Leveraging Vision-Language Knowledge Distillation for Few-Shot Object Detection" was accepted by ICANN 2024.
+
 **10/06/2023**: Our proposed DINO-Focal model won first place in the ICIP 2023 Grand Challenges.
+
 **01/06/2022**: Our paper "Scene Context Enhanced Network for Person Search" was accepted by ICIP 2022.
+
 **30/11/2020**: I arrived at Manchester against the spread of Covid-19 and national lockdown.
 
 **01/11/2020**: I was registered at the Univeristy of Manchester and began the weekly meeting with my supervisor.

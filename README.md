@@ -13,6 +13,10 @@ Beyond research and work, I am also a wanderlust and amateur photographer and dr
 News
 ========
 
+**28/04/2025**: I successfully passed my Ph.D. defense.
+
+**01/01/2025**: I started my postdoc at RAICo1, working with Dr. Xiaoxiao Cheng (https://research.manchester.ac.uk/en/persons/xiaoxiao-cheng). 
+
 **15/07/2024**: Our paper "Few-Shot Object Detection with Enhanced Prototypes" was accepted by UKCI 2024.
 
 **15/05/2024**: Our paper "KDNet: Leveraging Vision-Language Knowledge Distillation for Few-Shot Object Detection" was accepted by ICANN 2024.
@@ -27,13 +31,11 @@ News
 
 **12/07/2020**: I was awarded with the UoM -CSC Joint Scholarship to further my Ph.D. study. Thanks to my supervisor Prof. Hujun Yin's help and support! Cheers!
 
-**01/11/2019**: I went to Shandong Univeristy(Qingdao campus) for my internship, supervised by [Prof. Liqiang NIE]((https://liqiangnie.github.io/) and [Dr. Xiaojun Chang](https://www.xiaojun.ai/),<strike> waiting for the visa to Australia</strike>.
+**01/11/2019**: I went to Shandong Univeristy(Qingdao campus) for my internship, supervised by [Prof. Liqiang NIE]((https://liqiangnie.github.io/) and [Dr. Xiaojun Chang](https://www.xiaojun.ai/).
 
 **26/09/2019**: Our paper "[Maritime targets classification based on CNN using Gaofen-3 SAR images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8916017)" was publised by [the Journal of Engineering](https://digital-library.theiet.org/content/journals/joe). Cheers!
 
 **30/08/2019**: Our work won the first place in the [TRECVID 2019: Activities in Extended Video Competition](https://www-nlpir.nist.gov/projects/tvpubs/tv19.papers/mmvg-Informedia.pdf). Cheers!
-
-<strike>**16/06/2019**: I joined the [Monash Machine Vision Group](http://www.mmvg.org/) at Monash Univeristy (full scholarship), supervised by [Dr. Xiaojun Chang](https://www.xiaojun.ai/) to continue my research in computer vision</strike>.
 
 **15/01/2019**: Award for Graduate publishing Excellent Academic Paper, Beihang University.
 
@@ -49,11 +51,9 @@ News
 
 **01/07/2016**: Graduated from Northwestern Polytechnical University with honors. Cheers!
 
-**19/03/2016**: Went to [TU Branuschweig](https://www.tu-braunschweig.de/)(Germany) to complete my bachelor's thesis "*Development of A Thin Film Antenna for CubeSats*", supported by China Scholarship Council (CSC) Scholarship for Excellent Undergraduate Students.
+**19/03/2016**: Went to [TU Branuschweig](https://www.tu-braunschweig.de/) (Germany) to complete my bachelor's thesis "*Development of A Thin Film Antenna for CubeSats*", supported by China Scholarship Council (CSC) Scholarship for Excellent Undergraduate Students.
 
 **30/9/2012**: I was enrolled in the [Honors College](https://honors.nwpu.edu.cn/IndexEnglish.htm), [Northwestern Polytechnical University](https://en.nwpu.edu.cn/)
-
-**06/06/2012**: Graduated from School Attatched to Qifu Normal University, Shandong Province.
 
 
 
